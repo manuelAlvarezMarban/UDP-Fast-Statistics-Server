@@ -18,4 +18,4 @@ On project folder:
 - "make" to compile.
 - "./sserver --port--" to run.
 
-The files for data exporting will be under /DataFiles/ on project folder.
+The text files for data exporting will be under /DataFiles/ on project folder.
