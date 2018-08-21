@@ -8,7 +8,7 @@ The data gathered is: Total (KB|B) received, total messages, maximum message siz
 per minute and per second, messages received per minute and per second.
 
 -This data is wrote in file each minute, but if the server doesn´t receive data, will write nothing until next minute with data, 
-taking this into account for calculation of rates.-
+taking this into account for calculation of continuos stream rates.-
 
 ## Prerequisites:
 - Linux System (because of C socket dependencies)
