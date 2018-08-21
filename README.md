@@ -1,5 +1,5 @@
 # UDP Fast Statistics Server
-Simple UDP Server, for exporting received data statistics to files. Suited for Big Data pipelines or data collectors tests. 
+Simple UDP Server, for exporting received data traffic statistics to files. Suited for Big Data pipelines or data collectors tests. 
 
 UDP Server for continuos data receiving that exports data traffic statistics each minute to file, allowing fast testing of data
 collectors in order to, for instance, facilitate subsequent Apache Kafka or other stream processing system sizing.
