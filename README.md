@@ -1,4 +1,4 @@
-# UDP Fast Statistics Server
+# UDP Statistics Server
 Simple UDP Server, for exporting received data traffic statistics to files. Suited for Big Data pipelines or data collectors tests.  
 Good for embedded systems.
 
