@@ -11,7 +11,7 @@ per minute and per second, messages received per minute and per second.
 taking this into account for calculation of stream rates.-
 
 ## Prerequisites:
-- Linux System (because of C socket dependencies)
+- Linux (because of C socket dependencies)
 
 ## Installing - Run:
 On project folder:
